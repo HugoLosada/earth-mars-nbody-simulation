@@ -24,7 +24,7 @@ The final simulation models a spacecraft departing from a **300 km Earth parking
 The final trajectory is a **Mars flyby**, not an orbital insertion. No Mars capture burn is modelled.
 
 ![Heliocentric transfer](results/plots/heliocentric_transfer.png)
-
+![Earth–Mars transfer animation](results/earth_mars_transfer.gif)
 ---
 
 ## Simulation workflow
