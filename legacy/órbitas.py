@@ -2,7 +2,7 @@
 #VPython (vpython): Se utiliza para la visualización tridimensional de objetos y escenarios.
 #Tkinter (tkinter): Se utiliza para crear una interfaz gráfica simple para obtener la entrada del usuario.
 #La biblioteca de tiempo (time) en Python proporciona diversas funciones para trabajar con el tiempo y la fecha.
-
+from bodies import Body
 from vpython import *
 import tkinter as tk
 from tkinter import simpledialog
