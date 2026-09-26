@@ -31,7 +31,7 @@ animation_file = (
 #
 # Increasing this makes the animation smoother,
 # but also slower to generate and larger if saved.
-NUMBER_OF_FRAMES = 700
+NUMBER_OF_FRAMES = 400
 
 
 # Delay between frames in milliseconds.
@@ -42,7 +42,7 @@ FRAME_INTERVAL_MS = 30
 
 # Set this to True if you also want to save
 # the animation as a GIF.
-SAVE_GIF = False
+SAVE_GIF = True
 
 
 # =========================================================
